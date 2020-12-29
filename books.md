@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Okay, I'll bite
+title: 🎄 Okay, I'll bite 🎄 
 ---
 Yes, I will make a New Year's resolution. If that isn't clichéd enough, I am making one about reading one book every week. And in the style of [Derek Sivers](https://sive.rs/book) and [Nat Eliason](https://www.nateliason.com/notes), I will upload short notes and summaries of every book I read, perhaps even reviews of those I like (or disagree with).
 
