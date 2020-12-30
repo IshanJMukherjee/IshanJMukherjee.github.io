@@ -2,4 +2,4 @@
 layout: post
 title: The Magic Height For Frictionless Rolling
 ---
-$$ 3x = y $$
+$$ 3x = iy $$
