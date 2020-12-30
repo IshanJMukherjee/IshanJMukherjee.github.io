@@ -6,6 +6,9 @@ url:                 http://ishanjmukherjee.github.io
 baseurl:             ''
 paginate:            5
 permalink:           /:title
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 # About/contact
 author:
