@@ -27,22 +27,14 @@ Right now, I am reading _Good Economics for Hard Times_ by Esther Duflo and Abhi
 18.	_Flowers for Algernon_ by Daniel Keyes
 19.	_The Handmaid's Tale_ by Margaret Atwood
 20.	_Dune_ by Frank Herbert
-21.	_Man's Search for Meaning_ by Victor Frankl
-22.	_Prisoners of Geography_ by Tim Marshall
-23.	_Antifragile_ by Nicholas Nassim Taleb
-24.	_Life 3.0_ by Max Tegmark
-25.	_Factfulness_ by Hans Rosling
-26.	_The Three-Body Problem_ by Cixin Liu
-27.	_King Lear_ by William Shakespeare
-28.	_Macbeth_ by William Shakespeare
-29.	_Hamlet_ by William Shakespeare
-30.	_Midnight's Children_ by Salman Rushdie
-31.	_Hidden Order_ by David Friedman
-32.	_For the Love of Physics_ by Walter Lewin
-33.	_The Narrow Corridor_ by Daron Acemoglu and James A. Robinson
-34.	_On Liberty_ by John Stuart Mill
-35.	_Steve Jobs_ by Walter Isaacson
-36.	_Growth_ by Vaclav Smil
-37.	_Algorithms to Live By_ by Brian Christian and Tom Griffiths
-38.	_Godel, Escher, Bach: An Eternal Golden Braid_ by Douglas R. Hofstadter
-39.	_The Art of Strategy_ by Avinash Dixit and Barry Nalebuff
+21.	_Prisoners of Geography_ by Tim Marshall
+22.	_Antifragile_ by Nicholas Nassim Taleb
+23.	_Life 3.0_ by Max Tegmark
+24.	_Factfulness_ by Hans Rosling
+25.	_The Three-Body Problem_ by Cixin Liu
+26.	_King Lear_ by William Shakespeare
+27.	_Macbeth_ by William Shakespeare
+28.	_Hamlet_ by William Shakespeare
+29.	_Growth_ by Vaclav Smil
+30.	_Algorithms to Live By_ by Brian Christian and Tom Griffiths
+
